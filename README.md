@@ -3,7 +3,7 @@
 Downloads and the update feed for GitGrain, a Mac app for browsing your git
 repositories and seeing your commit history as stats.
 
-**[Download the latest GitGrain](https://github.com/Emin-Emini/gitgrain-releases/releases/latest/download/GitGrain.dmg)** (macOS 26.2 or later)
+**[Download the latest GitGrain](https://github.com/Emin-Emini/gitgrain-releases/releases/latest/download/GitGrain.dmg)** (macOS 26 or later, Apple silicon or Intel)
 
 GitGrain updates itself through [Sparkle](https://sparkle-project.org). This
 repository only holds what it downloads: `appcast.xml`, published through
