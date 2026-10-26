@@ -3,6 +3,30 @@
     <channel>
         <title>GitGrain</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Mon, 26 Oct 2026 10:34:53 +0300</pubDate>
+            <link>https://github.com/Emin-Emini/gitgrain-releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 1.1
+
+**New**
+- **See which repositories count toward your profile.** The Repository Browser has a Your Commits column and Contributed / Not Contributed filters, so you can tell why the Dashboard counts fewer repositories than were scanned.
+- **A reminder to add every email you commit with.** The Dashboard explains that only commits from your added emails count (work, old jobs, personal), with a link to add more.
+- **Pull Requests is marked Beta.**
+
+**Improved**
+- **No more freezing on big repositories.** Stats now refresh in the background when commits land from a terminal or editor, and large histories parse and scroll faster.
+- **Scan your whole home folder in one click.** Adding a folder now opens on your home folder and recommends it, so no repository is missed.
+
+**Fixed**
+- The "When commits land" chart in a repository's Stats was empty for any range except All Time.
+- In Settings › Appearance, the tick now follows your pick of graph palette, diff colors and code theme.
+]]></description>
+            <enclosure url="https://github.com/Emin-Emini/gitgrain-releases/releases/download/v1.1/GitGrain.dmg" length="10454016" type="application/octet-stream" sparkle:edSignature="QDKK62d5UBQpNLDeWv5G7vJ1Ugn7m8n+Sd6WGMOxLpYHurfRhBFgGlPVFRK46As2AUn1wxyXXRF1AI55p8o1CA=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Sun, 25 Oct 2026 14:39:34 +0300</pubDate>
             <link>https://github.com/Emin-Emini/gitgrain-releases</link>
