@@ -3,6 +3,20 @@
     <channel>
         <title>GitGrain</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Mon, 26 Oct 2026 11:32:20 +0300</pubDate>
+            <link>https://github.com/Emin-Emini/gitgrain-releases</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 1.1.1
+
+**Fixed**
+- **Your Year in Commits** opened early in 1.1. It's back to opening on 31 December, the last day of the year; until then, the Dashboard card tells you when it opens.
+]]></description>
+            <enclosure url="https://github.com/Emin-Emini/gitgrain-releases/releases/download/v1.1.1/GitGrain.dmg" length="10454528" type="application/octet-stream" sparkle:edSignature="7tIs0UwxIYHLXbmQNlHUMBWLV7s3moUqdeR8tAb9lmjo++Z7iH/HJOag7Vw5pVM5yNbz3LryW0dC0HCo77GEAg=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Mon, 26 Oct 2026 10:34:53 +0300</pubDate>
             <link>https://github.com/Emin-Emini/gitgrain-releases</link>
