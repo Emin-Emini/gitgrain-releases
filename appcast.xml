@@ -3,6 +3,25 @@
     <channel>
         <title>GitGrain</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Tue, 27 Oct 2026 08:58:27 +0300</pubDate>
+            <link>https://github.com/Emin-Emini/gitgrain-releases</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 1.1.2
+
+**New**
+- **Your contributions as a 3D city.** Click View in 3D on any contribution graph, on the Dashboard or in a repository's Stats, to turn it into a skyline you can orbit and zoom, one tower per day, taller on busier days. Longer ranges set each year side by side.
+- **Export the skyline.** Add the Contribution Skyline card to an image export, or save the city as a USDZ model (opens in Quick Look and AR) or an STL file ready for a 3D printer.
+
+**Fixed**
+- **No more requests for access to Music, Pictures or Movies.** Scanning your home folder no longer looks in them, and if you choose Don't Allow for Desktop, Documents or Downloads, GitGrain stops asking every time it opens. Rescan still checks them, in case you allow access later in System Settings.
+- The measure picker (Commits, +Lines, −Lines, ±Lines) no longer overlaps the section line and summary beside it.
+]]></description>
+            <enclosure url="https://github.com/Emin-Emini/gitgrain-releases/releases/download/v1.1.2/GitGrain.dmg" length="10591232" type="application/octet-stream" sparkle:edSignature="2M9fJsZGUXAyqn3cZtMahl7azx+9YiOKNxZWaEh9N3XTU3WaUbSJoqKCqstH8G+Z7sJHnjGA0YqH0Rh//pzwDA=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Mon, 26 Oct 2026 11:32:20 +0300</pubDate>
             <link>https://github.com/Emin-Emini/gitgrain-releases</link>
