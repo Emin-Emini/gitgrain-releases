@@ -3,6 +3,20 @@
     <channel>
         <title>GitGrain</title>
         <item>
+            <title>1.1.3</title>
+            <pubDate>Wed, 28 Oct 2026 13:15:18 +0300</pubDate>
+            <link>https://github.com/Emin-Emini/gitgrain-releases</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 1.1.3
+
+**Fixed**
+- **The newest commits no longer hide under the header.** After Show more commits, while filtering, or when a new commit arrived, the top of the commit graph could slide under the column header and stay out of reach however far you scrolled up. The graph now always starts at its newest commit.
+]]></description>
+            <enclosure url="https://github.com/Emin-Emini/gitgrain-releases/releases/download/v1.1.3/GitGrain.dmg" length="10591232" type="application/octet-stream" sparkle:edSignature="k+MzgDJujYbFwElI8CBI8l4aqz5ZVZc9aaDoTL/Y+oQSDjMRlEql5rUf+ZlJ/5k64bqNchXBD6Kamfue9G5lDg=="/>
+        </item>
+        <item>
             <title>1.1.2</title>
             <pubDate>Tue, 27 Oct 2026 08:58:27 +0300</pubDate>
             <link>https://github.com/Emin-Emini/gitgrain-releases</link>
